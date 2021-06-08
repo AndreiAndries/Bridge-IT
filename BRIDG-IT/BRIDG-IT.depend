@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1579013744 source:c:\users\andrei\desktop\bridg-it\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<time.h>
+	<windows.h>
+	<MMSystem.h>
+	<stdlib.h>
+	<queue>
+	<cmath>
+	<stdlib.h>
+	<time.h>
+
+1576428230 source:c:\users\andrei\desktop\bridg-it\resorces.rc
+
+1576428230 source:c:\users\victor^\downloads\bridg-it2\bridg-it\resorces.rc
+
+1578059080 source:c:\users\victor^\downloads\bridg-it2\bridg-it\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<time.h>
+	<windows.h>
+	<MMSystem.h>
+	<stdlib.h>
+
+1576428230 source:d:\bridg-it\resorces.rc
+
+1578660147 source:d:\bridg-it\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<time.h>
+	<windows.h>
+	<MMSystem.h>
+	<stdlib.h>
+	<queue>
+	<cmath>
+
+1578790578 source:e:\proiect\bridg-it\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<time.h>
+	<windows.h>
+	<MMSystem.h>
+	<stdlib.h>
+	<queue>
+	<cmath>
+	<stdlib.h>
+	<time.h>
+
+1576428230 source:e:\proiect\bridg-it\resorces.rc
+
+1579003983 source:e:\proiectfinal\bridg-it\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<time.h>
+	<windows.h>
+	<MMSystem.h>
+	<stdlib.h>
+	<queue>
+	<cmath>
+	<stdlib.h>
+	<time.h>
+
+1576428230 source:e:\proiectfinal\bridg-it\resorces.rc
+
